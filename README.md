@@ -27,7 +27,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
     }
   ],
   "require": {
-    "swagger/swagger-client-edition-foba": "*@dev"
+    "swagger/swagger-client": "*@dev"
   }
 }
 ```
