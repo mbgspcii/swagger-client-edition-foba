@@ -23,7 +23,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "      "url": "https://github.com/swagger/swagger-client.git"
+      "url": "https://github.com/mbgspcii/swagger-client-edition-foba"
     }
   ],
   "require": {
