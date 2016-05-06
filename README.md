@@ -23,11 +23,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/swagger/swagger-client.git"
+      "url": "      "url": "https://github.com/swagger/swagger-client.git"
     }
   ],
   "require": {
-    "swagger/swagger-client": "*@dev"
+    "swagger/swagger-client-edition-foba": "*@dev"
   }
 }
 ```
